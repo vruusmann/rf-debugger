@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <PMML xmlns="http://www.dmg.org/PMML-4_2" version="4.2">
     <Header>
-        <Application name="JPMML-Converter" version="1.0-SNAPSHOT"/>
+        <Application name="JPMML-SkLearn" version="1.0-SNAPSHOT"/>
         <Timestamp>2015-09-16T17:55:31Z</Timestamp>
     </Header>
     <DataDictionary>
